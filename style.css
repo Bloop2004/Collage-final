@@ -1,0 +1,10 @@
+#the_human_publisher{
+    background-color: rgb(216, 211, 211);
+}
+img{
+    height: 300px;
+    width: 500px;
+}
+img:hover{
+    border-radius: 30px;
+}
